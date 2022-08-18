@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../cart-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../CoreJavaPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/../creational-design-patterns-example-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../gateway-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../movie-info-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../rating-data-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../simple-springboot-app/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-hibernate-crud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springbootcurd/pom.xml" />
+        <option value="$PROJECT_DIR$/../structural-design-pattern-example-master/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
